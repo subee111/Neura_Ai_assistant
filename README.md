@@ -1,3 +1,6 @@
+
+<img width="200" height="700" alt="logo" src="https://github.com/user-attachments/assets/eafb3f18-37d8-445b-affa-0949c9e04fa3" />
+
 # 🤖 NEURA – AI Voice Assistant by Subeethar Mahalingam
 
 Neura is a futuristic AI voice agent developed by Mahlngam Subeethar, a passionate software engineering undergraduate. This intelligent assistant is designed to speak, respond, and interact like a real human — offering answers, explanations, and ideas with clarity, warmth, and adaptive personality.
