@@ -1,4 +1,6 @@
-<img width="200" height="700" alt="logo" src="assets/logo.png" />
+<p align="center">
+  <img src="assets/logo.png" alt="Neura Logo" width="200"/>
+</p>
 
 # 🤖 NEURA – AI Voice Assistant by Subeethar Mahalingam
 
